@@ -1,0 +1,3 @@
+top1 : 5150
+PLAYER : 410
+tyiti : 110
